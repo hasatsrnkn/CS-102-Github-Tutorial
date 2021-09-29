@@ -1,2 +1,36 @@
 Mehmet Hasat Serinkan - 21901649 - https://github.com/hasatsrnkn
 EA Games Fifa
+
+commit 0aacb47bea24a6457597ae96bfdc0734a34265ed (HEAD -> main, origin/main, origin/HEAD) 
+Merge: c495f1d 8652a3e
+Author: hasatsrnkn <91607536+hasatsrnkn@users.noreply.github.com>
+Date:   Wed Sep 29 15:38:03 2021 +0300
+
+    Merge pull request #1 from hasatsrnkn/new_information
+    
+    Inserted my favorite video game into the entry in the info.txt
+
+commit 8652a3e9784b7586e6a9db51351eb1f725f4e3f1 (origin/new_information, new_information)
+Author: Hasat Serinkan <hasat.serinkan@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:36:23 2021 +0300
+
+    Inserted my favorite video game into the entry in the info.txt
+
+commit c495f1d5e0689fafa2fdad1df60fd26a844988af
+Merge: 52dbcf4 b87ac8c
+Author: Hasat Serinkan <hasat.serinkan@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:27:16 2021 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 52dbcf482fb2b85a6d54527e51c582ed6d755b90
+Author: Hasat Serinkan <hasat.serinkan@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:19:52 2021 +0300
+
+    Name_of_the_student updated info.txt
+
+commit b87ac8ca91c34bef8df8496ce5a7ed823f7ab0ae
+Author: Hasat Serinkan <hasat.serinkan@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:19:52 2021 +0300
+
+:
